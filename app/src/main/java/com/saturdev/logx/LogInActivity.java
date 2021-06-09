@@ -71,7 +71,7 @@ public class LogInActivity extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
                             // Sign in success
-                            Intent intent = new Intent(LogInActivity.this, HomeActivity.class);
+                            Intent intent = new Intent(LogInActivity.this, HomeDevicesActivity.class);
                             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                             startActivity(intent);
                             SharedPreferences sharedPref = getSharedPreferences("data", MODE_PRIVATE);

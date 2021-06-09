@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/devicesFragment"
+        android:icon="@drawable/ic_twotone_laptop_mac_24"
+        android:title="Devices" />
+    <item
+        android:id="@+id/articlesFragment"
+        android:icon="@drawable/ic_twotone_menu_book_24"
+        android:title="Articles" />
+
+</menu>

@@ -19,7 +19,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LogX">
         <activity
-            android:name=".HomeActivity"
+            android:name=".NewRepairActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeDevicesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeArticlesActivity"
             android:exported="true" />
         <activity
             android:name=".LogInActivity"

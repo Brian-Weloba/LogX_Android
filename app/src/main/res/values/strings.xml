@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LogX</string>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nunc est, placerat hendrerit nisl non, volutpat accumsan turpis. Nam euismod leo ligula. Mauris ullamcorper, metus ac porta lacinia, quam elit scelerisque risus, eu congue tortor tellus vel tortor. Vestibulum cursus risus ac dignissim posuere. Nulla varius lorem in nisi pretium, eget ultrices quam pulvinar. Ut viverra in neque sit amet facilisis. Vivamus commodo augue quis purus elementum eleifend. Curabitur lobortis sem at ante congue aliquet. Morbi tellus lacus, vehicula a turpis vitae, lobortis efficitur erat.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
