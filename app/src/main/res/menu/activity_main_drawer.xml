@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white" >
+    <group>
+        <item
+            android:id="@+id/nav_repairmen"
+            android:icon="@drawable/ic_twotone_home_repair_service_24"
+            android:title="Repairmen" />
+        <item
+            android:id="@+id/nav_articles"
+            android:icon="@drawable/ic_twotone_menu_book_24"
+            android:title="Articles"/>
+        <item
+            android:id="@+id/nav_devices"
+            android:icon="@drawable/ic_twotone_laptop_mac_24"
+            android:title="Devices"/>
+        <item
+            android:id="@+id/nav_expences"
+            android:icon="@drawable/ic_twotone_money_24"
+            android:title="Expences"/>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_twotone_person_24"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_twotone_exit_to_app_24"
+            android:title="Logout"/>
+
+    </group>
+</menu>

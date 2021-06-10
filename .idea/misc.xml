@@ -9,18 +9,22 @@
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/drawable/text_box.xml" value="0.1" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout-v26/activity_home_articles.xml" value="0.16983695652173914" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_home_articles.xml" value="0.1" />
-        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_home_devices.xml" value="0.264" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_home_articles.xml" value="0.2" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_home_devices.xml" value="0.1" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_item.xml" value="0.12083333333333333" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_log_in.xml" value="0.3360323886639676" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_sign_in.xml" value="0.152" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_new_repair.xml" value="0.16" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/app_bar_home.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_articles.xml" value="0.1" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_blank.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_devices.xml" value="0.1" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_home.xml" value="0.13385416666666666" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_item.xml" value="0.264" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/fragment_item_list.xml" value="0.2" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/layout/nav_header_home.xml" value="0.4" />
+        <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/menu/activity_main_drawer.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/HANCEY/AndroidStudioProjects/LogX/app/src/main/res/menu/bottom_nav.xml" value="0.2" />
       </map>
     </option>
